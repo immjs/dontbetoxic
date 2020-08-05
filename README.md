@@ -9,9 +9,9 @@ This is a work of fiction. Names and incidents are either the products of the au
 Any resemblance to actual persons or actual events is purely coincidental.
 If you feel targetted, reach me out on Discord ( `ІnfоrMatheMusic#6942` )
 
-# 1st. Don't spam
+## 1st. Don't spam
 
-## Example of spamming
+### Example of spamming
 
 ```text
 AntonSlo: Hey
@@ -21,29 +21,29 @@ AntonSlo: Hi everyone
 AntonSlo: Anyone?
 ```
 
-# 2nd. Don't overuse emojis
+## 2nd. Don't overuse emojis
 
 (Some people don't even like emojis. I am part of them. [See here](#extra) )
 
-## Example of emoji overusage:
+### Example of emoji overusage:
 
 ```text
 Brian: Hey check this out! https://icanhazdadjoke.com
 69420hahafunny: Haha funny 😆😆😆😆🤣🤣🤣🤣😆🤣🤣🤣😆😝
 ```
 
-# 3rd. Don't be cringe (Read: "Mean")
+## 3rd. Don't be cringe (Read: "Mean")
 
-## Examples of cringe behaviour:
+### Examples of cringe behaviour:
 
 ```text
 JohnArtHan: Who griefed my sky art?
 LogicMachine: Haha your art got griefed LUL
 ```
 
-# 4th. Don't flood the chat
+## 4th. Don't flood the chat
 
-## Example of chat flooding:
+### Example of chat flooding:
 
 ```text
 Azert: .
@@ -60,9 +60,9 @@ Azert: .
 SellYourSand: Dude WTF?
 ```
 
-# 5th. Don't overuse bad words
+## 5th. Don't overuse bad words
 
-## Example of bad words overusage:
+### Example of bad words overusage:
 
 ```text
 Ukrile: HOLY **** WHAT'S THAT ***** DOING WITH MY BF!!! THAT ****** IS GONA HEAR ME TOMMORROW!
@@ -70,25 +70,25 @@ Ukrile: HOLY **** WHAT'S THAT ***** DOING WITH MY BF!!! THAT ****** IS GONA HEAR
 
 (Depending on the context, avoid from 3 to 5 bad words in each message)
 
-# 6th. Don't ask to ask
+## 6th. Don't ask to ask
 
-## Example of asking for asking:
+### Example of asking for asking:
 
 ```text
 NoProblemo650: Can I ask a little something?
 ```
 
-# 7th. Behave like you would do in tral life
+## 7th. Behave like you would do in tral life
 
-## Example of not behaving normally:
+### Example of not behaving normally:
 
 ```text
 LyricsRight: I shot tony with a glock, at 3 o'clock, knock knock
 ```
 
-# 8th. Don't talk in a NSFW way out of nowhere
+## 8th. Don't talk in a NSFW way out of nowhere
 
-## No examples
+### No examples
 
 # You have now learned the basics of proper online interaction.
 
