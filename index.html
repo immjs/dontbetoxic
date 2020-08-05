@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+	<title>Some Title</title>
+	<meta name="og:title" content="Don't be toxic">
+	<link rel="stylesheet" href="https://ez-css.now.sh/">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
+</head>
+<body>
+	<script>
+    var converter = new showdown.Converter();
+    fetch("https://raw.githubusercontent.com/informathemusic/dontbetoxic/master/README.md")
+      .then(v=>v.text().then(v2=>document.getElementById('content').innerHTML=converter.makeHtml(v2)))
+  </script>
+  <div id="content">
+  </div>
+</body>
+</html>
