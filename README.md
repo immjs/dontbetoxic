@@ -70,7 +70,32 @@ Ukrile: HOLY **** WHAT'S THAT ***** DOING WITH MY BF!!! THAT ****** IS GONA HEAR
 
 (Depending on the context, avoid from 3 to 5 bad words in each message)
 
-# You have now learned the basics of proper
+# 6th. Don't ask to ask
+
+## Example of asking for asking:
+
+```text
+NoProblemo650: Can I ask a little something?
+```
+
+# 7th. Behave like you would do in tral life
+
+## Example of not behaving normally:
+
+```text
+LyricsRight: I shot tony with a glock, at 3 o'clock, knock knock
+```
+
+# 8th. Don't talk in a NSFW way out of nowhere
+
+## No examples
+
+# You have now learned the basics of proper online interaction.
+
+You have been warned about pretty much everything you shoud've been warned about online interaction.
+Please follow these instructions precisely while interacting online with strangers.
+
+(Have a nice day!)
 
 # Extra
 
