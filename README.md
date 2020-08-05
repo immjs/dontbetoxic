@@ -76,20 +76,22 @@ SellYourSand: Dude WTF?
 ### Example of bad words overusage:
 
 ```text
-Ukrile: HOLY **** WHAT'S THAT ***** DOING WITH MY BF!!! THAT ****** IS GONA HEAR ME TOMMORROW!
+Ukrile: HOLY **** WHAT'S THAT ***** DOING WITH MY BF!!! THAT ****** IS GONNA HEAR ME TOMMORROW!
 ```
 
 (Depending on the context, avoid from 3 to 5 bad words in each message)
 
-## 7th. Don't ask to ask
 
-### Example of asking for asking:
+## 7th. Typos are fine
+
+### Example of being too picky about typos
 
 ```text
-NoProblemo650: Can I ask a little something?
+Weather: It's going to b 10°C this morning
+EuRust: Man it's b__***e***__ not b
 ```
 
-## 8th. Behave like you would do in tral life
+## 8th. Behave like you would do in real life
 
 ### Example of not behaving normally:
 
@@ -100,6 +102,24 @@ LyricsRight: I shot tony with a glock, at 3 o'clock, knock knock
 ## 9th. Don't talk in a NSFW way out of nowhere
 
 ### No examples
+
+## 10th. Do not emulate a feeling
+
+### Example of emulating a feeling
+
+```text
+TitanULLover: Oh no!! TitalUL is dying!! 😭😭
+TitanULHater: Oh no! 😭😭
+```
+
+## 11th. Don't overrepresent a feeling
+
+### Example of feeling overrepresentation
+
+```text
+YokiMoki: My grandma just died
+TitanULLover: 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭
+```
 
 # You have now learned the basics of proper online interaction.
 
