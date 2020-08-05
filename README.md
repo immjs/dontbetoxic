@@ -9,7 +9,7 @@ This is a work of fiction. Names and incidents are either the products of the au
 Any resemblance to actual persons or actual events is purely coincidental.
 If you feel targetted, reach me out on Discord ( `ІnfоrMatheMusic#6942` )
 
-## 1st. Don't spam
+## 1st. Do not spam
 
 ### Example of spamming
 
@@ -21,9 +21,9 @@ AntonSlo: Hi everyone
 AntonSlo: Anyone?
 ```
 
-## 2nd. Don't overuse emojis
+## 2nd. Do not overuse emojis
 
-(Some people don't even like emojis. I am part of them. [See here](#extra) )
+(Some people do not even like emojis. I am part of them. [See here](#extra) )
 
 ### Example of emoji overusage:
 
@@ -32,7 +32,7 @@ Brian: Hey check this out! https://icanhazdadjoke.com
 69420hahafunny: Haha funny 😆😆😆😆🤣🤣🤣🤣😆🤣🤣🤣😆😝
 ```
 
-## 3rd. Don't be cringe (Read: "Mean")
+## 3rd. Do not be cringe (Read: "Mean")
 
 ### Examples of cringe behaviour:
 
@@ -41,7 +41,7 @@ JohnArtHan: Who griefed my sky art?
 LogicMachine: Haha your art got griefed LUL
 ```
 
-## 4th. Don't be cringe (Read: "Awkard")
+## 4th. Do not be cringe (Read: "Awkard")
 
 ### Example of being cringe:
 
@@ -52,7 +52,7 @@ Brian: Man https://dontbetoxic.vercel.app/ rule 2
 69420hahafunny: 🇭 🇲 🇲 🇲 🇲 🇲 🇲 .
 ```
 
-## 5th. Don't flood the chat
+## 5th. Do not flood the chat
 
 ### Example of chat flooding:
 
@@ -71,7 +71,7 @@ Azert: .
 SellYourSand: Dude WTF?
 ```
 
-## 6th. Don't overuse bad words
+## 6th. Do not overuse bad words
 
 ### Example of bad words overusage:
 
@@ -99,7 +99,7 @@ EuRust: Man it's b__***e***__ not b
 LyricsRight: I shot tony with a glock, at 3 o'clock, knock knock
 ```
 
-## 9th. Don't talk in a NSFW way out of nowhere
+## 9th. Do not talk in a NSFW way out of nowhere
 
 ### No examples
 
@@ -108,11 +108,11 @@ LyricsRight: I shot tony with a glock, at 3 o'clock, knock knock
 ### Example of faking a feeling
 
 ```text
-TitanULLover: Oh no!! TitalUL is dying!! 😭😭
+TitanULLover: Oh no!! TitanUL is dying!! 😭😭
 TitanULHater: Oh no! 😭😭
 ```
 
-## 11th. Don't overrepresent a feeling
+## 11th. Do not overrepresent a feeling
 
 ### Example of feeling overrepresentation
 
