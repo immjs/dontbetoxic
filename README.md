@@ -23,7 +23,7 @@ AntonSlo: Anyone?
 
 # 2nd. Don't overuse emojis
 
-(Some people don't even like emojis. I am part of them. [See here](Extra) )
+(Some people don't even like emojis. I am part of them. [See here](#extra) )
 
 ## Example of emoji overusage:
 
