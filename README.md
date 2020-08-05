@@ -41,7 +41,18 @@ JohnArtHan: Who griefed my sky art?
 LogicMachine: Haha your art got griefed LUL
 ```
 
-## 4th. Don't flood the chat
+## 4th. Don't be cringe (Read: "Awkard")
+
+### Example of being cringe:
+
+```text
+Brian: Hey check this out! https://icanhazdadjoke.com
+69420hahafunny: Haha funny 😆😆😆😆🤣🤣🤣🤣😆🤣🤣🤣😆😝
+Brian: Man https://dontbetoxic.vercel.app/ rule 2
+69420hahafunny: 🇭 🇲 🇲 🇲 🇲 🇲 🇲 .
+```
+
+## 5th. Don't flood the chat
 
 ### Example of chat flooding:
 
@@ -60,7 +71,7 @@ Azert: .
 SellYourSand: Dude WTF?
 ```
 
-## 5th. Don't overuse bad words
+## 6th. Don't overuse bad words
 
 ### Example of bad words overusage:
 
@@ -70,7 +81,7 @@ Ukrile: HOLY **** WHAT'S THAT ***** DOING WITH MY BF!!! THAT ****** IS GONA HEAR
 
 (Depending on the context, avoid from 3 to 5 bad words in each message)
 
-## 6th. Don't ask to ask
+## 7th. Don't ask to ask
 
 ### Example of asking for asking:
 
@@ -78,7 +89,7 @@ Ukrile: HOLY **** WHAT'S THAT ***** DOING WITH MY BF!!! THAT ****** IS GONA HEAR
 NoProblemo650: Can I ask a little something?
 ```
 
-## 7th. Behave like you would do in tral life
+## 8th. Behave like you would do in tral life
 
 ### Example of not behaving normally:
 
@@ -86,7 +97,7 @@ NoProblemo650: Can I ask a little something?
 LyricsRight: I shot tony with a glock, at 3 o'clock, knock knock
 ```
 
-## 8th. Don't talk in a NSFW way out of nowhere
+## 9th. Don't talk in a NSFW way out of nowhere
 
 ### No examples
 
