@@ -1,4 +1,4 @@
-HOW NOT TO BE TOXIC
+How not to be toxic
 ===
 
 A begginner's guide to proper online interaction.
