@@ -7,7 +7,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
 </head>
 <body>
-	<script>
+  <script>
     var converter = new showdown.Converter();
     fetch("https://raw.githubusercontent.com/informathemusic/dontbetoxic/master/README.md")
       .then(v=>v.text().then(v2=>document.getElementById('content').innerHTML=converter.makeHtml(v2)))
