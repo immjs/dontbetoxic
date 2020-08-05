@@ -103,9 +103,9 @@ LyricsRight: I shot tony with a glock, at 3 o'clock, knock knock
 
 ### No examples
 
-## 10th. Do not emulate a feeling
+## 10th. Do not fake a feeling
 
-### Example of emulating a feeling
+### Example of faking a feeling
 
 ```text
 TitanULLover: Oh no!! TitalUL is dying!! 😭😭
