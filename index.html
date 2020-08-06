@@ -36,7 +36,7 @@
 <body>
   <script>
     var converter = new showdown.Converter();
-    fetch("https://raw.githubusercontent.com/informathemusic/dontbetoxic/master/README.md")
+    fetch("README.md")
       .then(v=>v.text().then(v2=>document.getElementById('content').innerHTML=converter.makeHtml(v2)))
   </script>
   <div id="content">
