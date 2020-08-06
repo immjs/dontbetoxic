@@ -90,13 +90,13 @@ Ukrile: HOLY **** WHAT'S THAT ***** DOING WITH MY BF!!! THAT ****** IS GONNA HEA
 (Depending on the context, avoid from 3 to 5 bad words in each message)
 
 # Rule 7
-## Typos are fine
+## Do not be too picky about everything
 
-### Example of being too picky about typos
+### Example of being too picky about everything
 
 ```text
 Weather: It's going to b 10°C this morning
-EuRust: Man it's b__***e***__ not b
+EuRust: Man it's b__***e***__ not b and it's gonna be 10.6°C actually so you're off by one if you include the rounding
 ```
 
 # Rule 8
@@ -135,7 +135,7 @@ TitanULLover: 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭�
 
 # You have now learned the basics of proper online interaction
 
-Follow these instructions precisely, and enjoy using your computer, correctly.
+Follow these instructions precisely, and enjoy interacting online, correctly.
 
 # Extra
 
