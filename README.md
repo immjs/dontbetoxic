@@ -171,7 +171,7 @@ Music5: I meant i'm eating barbecue so i can't help you rn!
 
 [Rule 8](#rule-8)
 
-[Rule 0](#rule-9)
+[Rule 9](#rule-9)
 
 [Rule 10](#rule-10)
 
