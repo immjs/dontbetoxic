@@ -37,7 +37,14 @@
   <script>
     var converter = new showdown.Converter();
     fetch("README.md")
-      .then(v=>v.text().then(v2=>document.getElementById('content').innerHTML=converter.makeHtml(v2)))
+      .then(v=>
+          v.text().then(v2=>{
+            document.getElementById('content').innerHTML=converter.makeHtml(v2);
+            let el;
+            if(location.hash)el=document.getElementById(location.hash.replace('#',''))
+            if(el)el.scrollIntoView({behavior: 'smooth'})
+          })
+      )
   </script>
   <div id="content">
   </div>
