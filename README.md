@@ -155,24 +155,24 @@ Music5: I meant i'm eating barbecue so i can't help you rn!
 
 ## Links to:
 
-[Rule 1](#rule-1)
+[Rule 1](#rule1)
 
-[Rule 2](#rule-2)
+[Rule 2](#rule2)
 
-[Rule 3](#rule-3)
+[Rule 3](#rule3)
 
-[Rule 4](#rule-4)
+[Rule 4](#rule4)
 
-[Rule 5](#rule-5)
+[Rule 5](#rule5)
 
-[Rule 6](#rule-6)
+[Rule 6](#rule6)
 
-[Rule 7](#rule-7)
+[Rule 7](#rule7)
 
-[Rule 8](#rule-8)
+[Rule 8](#rule8)
 
-[Rule 9](#rule-9)
+[Rule 9](#rule9)
 
-[Rule 10](#rule-10)
+[Rule 10](#rule10)
 
-[Rule 11](#rule-11)
+[Rule 11](#rule11)
