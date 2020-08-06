@@ -29,7 +29,7 @@ jobs:
       uses: dswistowski/surge-sh-action@v1.0.0
       with:
         # your surge.sh domain to deploy
-        domain: dontbetoxic
+        domain: dontbetoxic.surge.sh
         # surge.sh login
         login: informathemusic@gmail.com
         # surge.sh token, generate it with `surge token` command
