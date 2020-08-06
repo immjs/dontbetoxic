@@ -9,7 +9,7 @@ A begginner's guide to proper online interaction.
 
 This is a work of fiction. Names and incidents are either the products of the author's imagination or used in a fictitious manner.
 Any resemblance to actual persons or actual events is purely coincidental.
-If you are present on the example and you don't like it, reach me out on discord ( `ІnfоrMatheMusic#6942` )
+If you or your property are present on an example and you don't like it, reach me out on discord ( `ІnfоrMatheMusic#6942` )
 
 # Rule 1
 ## Do not spam
