@@ -1,15 +1,18 @@
-How not to be toxic
+## Welcome to...
+
+How to correctly interact online
 ===
 
 A begginner's guide to proper online interaction.
 
-# Disclaimer:
+# Disclaimer
 
 This is a work of fiction. Names and incidents are either the products of the author's imagination or used in a fictitious manner.
 Any resemblance to actual persons or actual events is purely coincidental.
 If you feel targetted, reach me out on Discord ( `ІnfоrMatheMusic#6942` )
 
-## 1st. Do not spam
+# Rule 1
+## Do not spam
 
 ### Example of spamming
 
@@ -21,7 +24,8 @@ AntonSlo: Hi everyone
 AntonSlo: Anyone?
 ```
 
-## 2nd. Do not overuse emojis
+# Rule 2
+## Do not overuse emojis
 
 (Some people do not even like emojis. I am part of them. [See here](#extra) )
 
@@ -32,7 +36,8 @@ Brian: Hey check this out! https://icanhazdadjoke.com
 69420hahafunny: Haha funny 😆😆😆😆🤣🤣🤣🤣😆🤣🤣🤣😆😝
 ```
 
-## 3rd. Do not be cringe (Read: "Mean")
+# Rule 3
+## Do not be cringe (Read: "Mean")
 
 ### Examples of cringe behaviour:
 
@@ -41,7 +46,8 @@ JohnArtHan: Who griefed my sky art?
 LogicMachine: Haha your art got griefed LUL
 ```
 
-## 4th. Do not be cringe (Read: "Awkard")
+# Rule 4
+## Do not be cringe (Read: "Awkard")
 
 ### Example of being cringe:
 
@@ -52,7 +58,8 @@ Brian: Man https://dontbetoxic.vercel.app/ rule 2
 69420hahafunny: 🇭 🇲 🇲 🇲 🇲 🇲 🇲 .
 ```
 
-## 5th. Do not flood the chat
+# Rule 5
+## Do not flood the chat
 
 ### Example of chat flooding:
 
@@ -71,7 +78,8 @@ Azert: .
 SellYourSand: Dude WTF?
 ```
 
-## 6th. Do not overuse bad words
+# Rule 6
+## Do not overuse bad words
 
 ### Example of bad words overusage:
 
@@ -81,8 +89,8 @@ Ukrile: HOLY **** WHAT'S THAT ***** DOING WITH MY BF!!! THAT ****** IS GONNA HEA
 
 (Depending on the context, avoid from 3 to 5 bad words in each message)
 
-
-## 7th. Typos are fine
+# Rule 7
+## Typos are fine
 
 ### Example of being too picky about typos
 
@@ -91,7 +99,8 @@ Weather: It's going to b 10°C this morning
 EuRust: Man it's b__***e***__ not b
 ```
 
-## 8th. Behave like you would do in real life
+# Rule 8
+## Behave like you would do in real life
 
 ### Example of not behaving normally:
 
@@ -99,11 +108,13 @@ EuRust: Man it's b__***e***__ not b
 LyricsRight: I shot tony with a glock, at 3 o'clock, knock knock
 ```
 
-## 9th. Do not talk in a NSFW way out of nowhere
+# Rule 9
+## Do not talk in a NSFW way out of nowhere
 
-### No examples
+### No example
 
-## 10th. Do not fake a feeling
+# Rule 10
+## Do not fake a feeling
 
 ### Example of faking a feeling
 
@@ -112,7 +123,8 @@ TitanULLover: Oh no!! TitanUL is dying!! 😭😭
 TitanULHater: Oh no! 😭😭
 ```
 
-## 11th. Do not overrepresent a feeling
+# Rule 11
+## Do not overrepresent a feeling
 
 ### Example of feeling overrepresentation
 
@@ -121,12 +133,9 @@ YokiMoki: My grandma just died
 TitanULLover: 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭
 ```
 
-# You have now learned the basics of proper online interaction.
+# You have now learned the basics of proper online interaction
 
-You have been warned about pretty much everything you shoud've been warned about online interaction.
-Please follow these instructions precisely while interacting online with strangers.
-
-(Have a nice day!)
+Follow these instructions precisely, and enjoy using your computer, correctly.
 
 # Extra
 
@@ -143,3 +152,38 @@ Music5: 🥓🔥❌
 EmotesBetter: DUDE U SERIOUS?
 Music5: I meant i'm eating barbecue so i can't help you rn!
 ```
+
+## Links to:
+
+Rule 1
+https://dontbetoxic.vercel.app/#rule-1
+
+Rule 2
+https://dontbetoxic.vercel.app/#rule-2
+
+Rule 3
+https://dontbetoxic.vercel.app/#rule-3
+
+Rule 4
+https://dontbetoxic.vercel.app/#rule-4
+
+Rule 5
+https://dontbetoxic.vercel.app/#rule-5
+
+Rule 6
+https://dontbetoxic.vercel.app/#rule-6
+
+Rule 7
+https://dontbetoxic.vercel.app/#rule-7
+
+Rule 8
+https://dontbetoxic.vercel.app/#rule-8
+
+Rule 9
+https://dontbetoxic.vercel.app/#rule-9
+
+Rule 10
+https://dontbetoxic.vercel.app/#rule-10
+
+Rule 11
+https://dontbetoxic.vercel.app/#rule-11
