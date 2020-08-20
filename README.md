@@ -132,6 +132,16 @@ YokiMoki: My grandma just died
 TitanULLover: 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭
 ```
 
+# Rule 12
+## Not everybody needs to know everything that happens to your life
+
+### Example of explicitly notifying everyone of everything that happen in your life
+
+```text
+TeeeShiiiiii: @everyone Today i gave a 1 year old an ice cream!
+*TeeeShiiiiii was banned*
+```
+
 # You have now learned the basics of proper online interaction
 
 Follow these instructions precisely, and enjoy interacting online, correctly.
