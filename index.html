@@ -40,7 +40,7 @@
     fetch("README.md")
       .then(async (v) => {
           const content = await v.text()
-          document.getElementById('content').innerHTML=converter.makeHtml(v2);
+          document.getElementById('content').innerHTML=converter.makeHtml(content);
           if(location.hash){
             const el=document.getElementById(location.hash.replace('#',''))
             if(el) {
