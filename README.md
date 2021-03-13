@@ -131,7 +131,7 @@ Goes from breaking rule 2:
 YokiMoki: My grandma just died
 TitanULLover: 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭
 ```
-to using too much markdown (except if there is a valid reason):
+to [using too much markdown](#howmuchistoomuch) (except if there is a valid reason):
 ```text
 im14andthisisfine: No, __***its not like this, its like that***__
 ```
@@ -165,6 +165,11 @@ Music5: 🥓🔥❌
 EmotesBetter: DUDE U SERIOUS?
 Music5: I meant i'm eating barbecue so i can't help you rn!
 ```
+
+## How much is too much?
+
+Usually a simple emphasis will do fine for most of your needs.
+You'll get used to it, it will give you opportunity to use `**bold**` when something is really important (It can also be used in a comic manner)
 
 ## Links to:
 
