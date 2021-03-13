@@ -17,15 +17,15 @@
       }
       @media (prefers-color-scheme: light){
         pre, code{
-          background-color:#DDDDDD;
+          background-color: #DDDDDD;
         }
       }
       @media (prefers-color-scheme: dark){
         pre, code{
-          background-color:rgb(51,51,51);
+          background-color: rgb(51,51,51);
         }
         body{
-          background-color:rgb(21,21,21);
+          background-color: rgb(21,21,21);
         }
         body, a{
           color: #DDDDDD;
@@ -36,15 +36,18 @@
 </head>
 <body>
   <script>
-    var converter = new showdown.Converter();
+    const converter = new showdown.Converter();
     fetch("README.md")
-      .then(v=>
-          v.text().then(v2=>{
-            document.getElementById('content').innerHTML=converter.makeHtml(v2);
-            let el;
-            if(location.hash)el=document.getElementById(location.hash.replace('#',''))
-            if(el)el.scrollIntoView({behavior: 'smooth'})
-          })
+      .then(async (v) => {
+          const content = await v.text()
+          document.getElementById('content').innerHTML=converter.makeHtml(v2);
+          if(location.hash){
+            const el=document.getElementById(location.hash.replace('#',''))
+            if(el) {
+              el.scrollIntoView({ behavior: 'smooth' });
+              el.style.backgroundColor = '#515151';
+            }
+          }
       )
   </script>
   <div id="content">
