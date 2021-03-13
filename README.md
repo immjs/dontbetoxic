@@ -125,11 +125,15 @@ TitanULHater: Oh no! 😭😭
 # Rule 11
 ## Do not overrepresent a feeling
 
-### Example of feeling overrepresentation
-
+### Examples of feeling overrepresentation
+Goes from breaking rule 2:
 ```text
 YokiMoki: My grandma just died
 TitanULLover: 😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭
+```
+to using too much markdown (except if there is a valid reason):
+```text
+im14andthisisfine: No, __***its not like this, its like that***__
 ```
 
 # Rule 12
